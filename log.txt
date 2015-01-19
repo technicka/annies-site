@@ -1,4 +1,7 @@
 To Do
 
 - Figure out hover images
+use for reference:
+http://mikekus.com/portfolio
+
 - Figure out sticky header for project pages
