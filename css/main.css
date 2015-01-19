@@ -398,3 +398,39 @@ li {
         page-break-after: avoid;
     }
 }
+
+/******* image bullshit ********/
+
+.recentFeature {
+    position: relative;
+}
+
+.recentFeature a {
+    display:inline-block;
+    position:relative;
+}
+
+.featureOverlay {
+    background-repeat: no-repeat;
+    background-position: 90% 85%;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,.7);
+    padding: 1em;
+    overflow: hidden;
+}
+
+.featureOverlay p {
+    text-align: center;
+}
+
+.recentFeature:hover .featureOverlay {
+    display: inline-block;
+    color: white;
+}
+
+
