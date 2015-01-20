@@ -9,3 +9,9 @@ To Do
 - Edit photos needed
 		old navy
 		bloom
+
+
+Development:
+- futura enabled for localhost right now, for editing purposes
+- typekit needs to be changed to actual domain when ready
+- annies-site is a folder inside the regular github folder... perhaps not as ideal..
